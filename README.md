@@ -14,3 +14,5 @@ The goal is to craft an elegant and visually appealing landing page that reflect
 
 <img width="1439" alt="Screenshot 2024-04-18 at 5 59 47 PM" src="https://github.com/VishnuP02/Mangata-Gallo/assets/135986853/44d5db0c-b870-492d-b486-e36ad1826ee7">
 
+
+
